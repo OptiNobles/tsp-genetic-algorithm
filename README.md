@@ -25,7 +25,7 @@ GA_optimizer.fit(towns, popsize=500, gens=500, mode='tournament')
 ```python
 GA_optimizer.plot()
 ```
-![output_plot_GAO](https://user-images.githubusercontent.com/114445740/193552513-93860d5f-f650-409d-be28-671157f81a87.png)
+![output_plot_GAO](https://user-images.githubusercontent.com/114445740/194718696-eea27fab-6d8f-40b5-98e1-41a7300d77c2.png)
 
 
 * Visualization 
